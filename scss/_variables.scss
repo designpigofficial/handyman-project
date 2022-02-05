@@ -1,0 +1,13 @@
+:root {
+    --blue-color: blue;
+    --yellow-color: yellow;
+    --red-color: red;
+    --light-color: #e0e0e0;
+    --dark-color: #303030;
+}
+
+$background-color: var(--light-color);
+$text-color: var(--dark-color);
+$blue-color: var(--blue-color);
+$yellow-color: var(--yellow-color);
+$red-color: var(--red-color);

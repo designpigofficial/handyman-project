@@ -1,0 +1,25 @@
+@import'variables';
+
+.navbar {
+    position: relative;
+}
+
+.navbar-wrapper {
+    display: flex;
+}
+.navbar-brand {
+    font-size: 20px;
+    padding: 10px 0;
+    font-weight: 700;
+}
+
+.nav-items {
+    display: flex;
+
+    .nav-item {
+        flex-direction: row;
+        color: red;
+        }
+}
+
+
